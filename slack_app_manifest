@@ -1,0 +1,27 @@
+{
+    "display_information": {
+        "name": "DelChMsg"
+    },
+    "oauth_config": {
+        "scopes": {
+            "user": [
+                "channels:history",
+                "channels:read",
+                "channels:write",
+                "chat:write",
+                "emoji:read",
+                "files:read",
+                "files:write",
+                "groups:history",
+                "im:history",
+                "mpim:history",
+                "reactions:read"
+            ]
+        }
+    },
+    "settings": {
+        "org_deploy_enabled": false,
+        "socket_mode_enabled": false,
+        "token_rotation_enabled": false
+    }
+}
